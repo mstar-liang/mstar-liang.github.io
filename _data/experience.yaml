@@ -1,0 +1,29 @@
+experiences:
+- place: "Texas A&M University"
+  time: "Sep 2025 - now"
+  title: "Ph.D. in Computer Science"
+  subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a>"
+  category: "school"
+
+- place: "TSMC"
+  time: "May 2025 - Aug 2025"
+  title: "TCAD Engineer Intern"
+  subtitle: "Mentor: <a href='https://www.linkedin.com/in/lesheng-li/'>Dr. Lesheng Li</a> <br/> TCAD-US Team · AI for Semiconductor Process Simulation"
+  category: "work"
+
+- place: "University of Texas at Austin"
+  time: "Sep 2023 - Aug 2025"
+  title: "Ph.D. in Mechanical Engineering (Computational Material)"
+  subtitle: "Transferred out to TAMU Computer Science"
+  category: "school"
+
+- place: "University of Texas at Austin"
+  time: "Aug 2020 - Aug 2023"
+  title: "M.S. in Mechanical Engineering (Computational Material)"
+  category: "school"
+
+- place: "Xi'an Jiao Tong University"
+  time: "Sep 2016 - Aug 2020"
+  title: "B.E. Student in Energy & Power Engineering"
+  category: "school"
+  

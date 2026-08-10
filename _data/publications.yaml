@@ -1,0 +1,89 @@
+papers:
+- title: "Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks"
+  authors: "<b>Chenxing Liang</b>, Yuchao Lin, Andrii Kryvenko, Wendi Yu, Chuan Li, Jianwen Xie, Xiaofeng Qian, Shuiwang Ji"
+  venue: "arXiv preprint, 2026"
+  paper_pdf: "https://arxiv.org/abs/2607.01408"
+  code: "https://github.com/divelab/SpinGTP/"
+  img: "/assets/imgs/SpinGTP.png"
+  selected: y
+  year: "2026"
+
+- title: "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"
+  authors: "Lianhao Zhou, Hongyi Ling, Cong Fu, Yepeng Huang, Michael Sun, Wendi Yu, Xiaoxuan Wang, Xiner Li, Xingyu Su, Junkai Zhang, Xiusi Chen, <b>Chenxing Liang</b>, Xiaofeng Qian, Heng Ji, Wei Wang, Marinka Zitnik, Shuiwang Ji"
+  venue: "arXiv preprint, 2025"
+  paper_pdf: "https://arxiv.org/abs/2510.09901"
+  img: "/assets/imgs/AgentOrchestration.png"
+  selected: y
+  year: "2025"
+
+- title: "Generative Quasi-Continuum Modeling of Confined Fluids at the Nanoscale"
+  authors: "Bugra Yalcin, Ishan Nadkarni, Jinu Jeong, <b>Chenxing Liang</b>, Narayana R. Aluru"
+  venue: "arXiv preprint, 2025"
+  paper_pdf: "https://arxiv.org/abs/2509.08223"
+  img: "/assets/imgs/GenerativeQC.png"
+  selected: y
+  year: "2025"
+
+- title: "Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins"
+  authors: "Yuhao Li, Zhongwu Li, Rahul Prasanna Misra, <b>Chenxing Liang</b>, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana R. Aluru, Daniel Blankschtein, Aleksandr Noy"
+  venue: "Nature Materials (<b>Nat. Mater.</b>), 2024"
+  paper_pdf: "https://doi.org/10.1038/s41563-024-01925-w"
+  img: "/assets/imgs/CNTPorins.png"
+  selected: y
+  year: "2024"
+
+- title: "Tuning Interfacial Water Friction through Moiré Twist"
+  authors: "<b>Chenxing Liang</b>, Narayana R. Aluru"
+  venue: "ACS Nano, 2024"
+  paper_pdf: "https://doi.org/10.1021/acsnano.4c00733"
+  img: "/assets/imgs/MoireFriction.png"
+  selected: y
+  year: "2024"
+
+- title: "Data-Driven Molecular Dynamics Simulation of Water Isotope Separation Using a Catalytically Active Ultrathin Membrane"
+  authors: "Jinu Jeong, <b>Chenxing Liang</b>, Narayana R. Aluru"
+  venue: "Physical Chemistry Chemical Physics (<b>PCCP</b>), 2024"
+  paper_pdf: "https://doi.org/10.1039/D4CP04020A"
+  img: "/assets/imgs/WaterIsotope.png"
+  selected: y
+  year: "2024"
+
+- title: "Design and Assessment of Highly Stable Norfloxacin/Ca-Montmorillonite (STx-1b) as Oral Beads"
+  authors: "Po-Hsiang Chang, <b>Chenxing Liang</b>, Yating Yang, Yaqi Wen, Cheng-I Lee, Juin-Yen Ho, Chien-Yen Chen, Yu-Min Tzou"
+  venue: "Applied Clay Science, 2024"
+  paper_pdf: "https://doi.org/10.1016/j.clay.2024.107508"
+  # img: "/assets/imgs/NorfloxacinBeads.png"
+  selected: y
+  year: "2024"
+
+- title: "Structural and Dynamical Properties of H<sub>2</sub>O and D<sub>2</sub>O under Confinement"
+  authors: "<b>Chenxing Liang</b>, Archith Rayabharam, Narayana R. Aluru"
+  venue: "The Journal of Physical Chemistry B (<b>J. Phys. Chem. B</b>), 2023"
+  paper_pdf: "https://doi.org/10.1021/acs.jpcb.3c02868"
+  img: "/assets/imgs/H2OD2O.png"
+  selected: y
+  year: "2023"
+
+- title: "From Ab Initio to Continuum: Linking Multiple Scales Using Deep-Learned Forces"
+  authors: "Haiyi Wu, <b>Chenxing Liang</b>, Jinu Jeong, Narayana R. Aluru"
+  venue: "The Journal of Chemical Physics (<b>J. Chem. Phys.</b>), 2023"
+  paper_pdf: "https://doi.org/10.1063/5.0166927"
+  # img: "/assets/imgs/DeepForce.png"
+  selected: y
+  year: "2023"
+
+- title: "Continuous Trapping of Bacteria in Non-Newtonian Blood Flow Using Negative Dielectrophoresis with Quadrupole Electrodes"
+  authors: "Qinlong Ren, <b>Chenxing Liang</b>, Zexiao Wang, Zhiguo Qu"
+  venue: "Journal of Physics D: Applied Physics (<b>J. Phys. D</b>), 2021"
+  paper_pdf: "https://doi.org/10.1088/1361-6463/abb726"
+  img: "/assets/imgs/BacteriaTrapping.png"
+  selected: y
+  year: "2021"
+
+- title: "Insulator-Based Dielectrophoretic Antifouling of Nanoporous Membrane for High Conductive Water Desalination"
+  authors: "Qinlong Ren, <b>Chenxing Liang</b>"
+  venue: "Desalination, 2020"
+  paper_pdf: "https://doi.org/10.1016/j.desal.2020.114410"
+  img: "/assets/imgs/iDEPAntifouling.png"
+  selected: y
+  year: "2020"
