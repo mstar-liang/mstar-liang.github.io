@@ -1,6 +1,6 @@
 papers:
 - title: "Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks"
-  authors: "<b>Chenxing Liang</b>, Yuchao Lin, Andrii Kryvenko, Wendi Yu, Chuan Li, Jianwen Xie, Xiaofeng Qian, Shuiwang Ji"
+  authors: "<b>Chenxing Liang*</b>, Yuchao Lin*, Andrii Kryvenko*, Wendi Yu, Chuan Li, Jianwen Xie, Xiaofeng Qian, Shuiwang Ji"
   venue: "arXiv preprint, 2026"
   paper_pdf: "https://arxiv.org/abs/2607.01408"
   code: "https://github.com/divelab/SpinGTP/"
@@ -25,7 +25,7 @@ papers:
   year: "2025"
 
 - title: "Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins"
-  authors: "Yuhao Li, Zhongwu Li, Rahul Prasanna Misra, <b>Chenxing Liang</b>, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana R. Aluru, Daniel Blankschtein, Aleksandr Noy"
+  authors: "Yuhao Li*, Zhongwu Li*, Rahul Prasanna Misra*, <b>Chenxing Liang*</b>, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana R. Aluru, Daniel Blankschtein, Aleksandr Noy"
   venue: "Nature Materials (<b>Nat. Mater.</b>), 2024"
   paper_pdf: "https://doi.org/10.1038/s41563-024-01925-w"
   img: "/assets/imgs/CNTPorins_v2.png"
