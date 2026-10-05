@@ -1,10 +1,18 @@
 papers:
 - title: "Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks"
   authors: "<b>Chenxing Liang*</b>, Yuchao Lin*, Andrii Kryvenko*, Wendi Yu, Chuan Li, Jianwen Xie, Xiaofeng Qian, Shuiwang Ji"
-  venue: "arXiv preprint, 2026"
+  venue: "Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2026"
   paper_pdf: "https://arxiv.org/abs/2607.01408"
   code: "https://github.com/divelab/SpinGTP/"
   img: "/assets/imgs/SpinGTP.png"
+  selected: y
+  year: "2026"
+
+- title: "Equivariant Flow Matching for Electron Density Prediction"
+  authors: "<b>Chenxing Liang</b>, Chengdong Wang, Yuchao Lin, Xiaofeng Qian, Shuiwang Ji"
+  venue: "arXiv preprint, 2026"
+  paper_pdf: "https://arxiv.org/abs/2610.02651"
+  img: "/assets/imgs/OrbFlow.png"
   selected: y
   year: "2026"
 
