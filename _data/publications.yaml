@@ -12,6 +12,7 @@ papers:
   authors: "<b>Chenxing Liang</b>, Chengdong Wang, Yuchao Lin, Xiaofeng Qian, Shuiwang Ji"
   venue: "arXiv preprint, 2026"
   paper_pdf: "https://arxiv.org/abs/2610.02651"
+  code: "https://github.com/divelab/AIRS/tree/main/OpenDFT/OrbFlow"
   img: "/assets/imgs/OrbFlow.png"
   selected: y
   year: "2026"
